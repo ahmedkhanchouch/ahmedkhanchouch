@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Ahmed Khanchouch 👋
 ![Mon Image](1.png)
 
 Welcome to my GitHub profile!
 
 ## About Me
 
-- 🔭 I’m currently working on [Project]
-- 🌱 I’m currently learning [Technology/Language]
+- 🔭 I’m currently working on many smalll js project 
+- 🌱 I’m currently learning TypeScript , Docker ....
 - 👯 I’m looking to collaborate on [Project/Technology]
 - 💬 Ask me about [Topic]
 - 📫 How to reach me: [Email/LinkedIn/Twitter]
@@ -20,15 +20,15 @@ Welcome to my GitHub profile!
 
 ## Skills
 
-- Skill 1
-- Skill 2
-- Skill 3
+- Skill 1 : HTML/CSS/JS....
+- Skill 2 : TypeScript/React/...
+- Skill 3 : 
 
 ## Hobbies
 
-- Hobby 1
-- Hobby 2
-- Hobby 3
+- Hobby 1 : Traveling
+- Hobby 2 : Football & gym
+- Hobby 3 : 
 
 <!--
 **ahmedkhanchouch/ahmedkhanchouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
